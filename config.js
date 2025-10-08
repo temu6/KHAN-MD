@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7zfdcq.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "KHAN-MD",
+BOT_NAME: process.env.BOT_NAME || "⁖℘༒➻𒍜➻𝕬𝖑𝖑 𝕸𝖚𝖘𝖎𝖈 𝕽𝖊𝖖𝖚𝖊𝖘𝖙 2025➻𒍜➻⁖℘༒",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KHAN-MD",
 // type sticker pack name 
@@ -41,11 +41,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "92342758XXXX",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263771320822",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Jᴀᴡᴀᴅ TᴇᴄʜX",
+OWNER_NAME: process.env.OWNER_NAME || "TEMPTATION CHIPERE",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*",
+DESCRIPTION: process.env.DESCRIPTION || "*© TEMPTATION THEMBINKOSI CHIPERE*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/149k8x.jpg",
 // add img for alive msg
